@@ -33,7 +33,7 @@ Have a diagram of how a quantum computer all fits together. Basically the single
 ## Work Plan
 Since there are essentially two sections to this project, they will be broken down into two separate subprojects each a week long.
 
-Week 1: Understanding Quantum Computing
+#### Week 1: Understanding Quantum Computing
 
 | Objective | Time Required | Deliverable |
 |:--------- | :-----------: | :---------- |
@@ -41,7 +41,8 @@ Week 1: Understanding Quantum Computing
 | Basic quantum logic gates | 8 Hours | A written section explaining the various quantum logic gates and how they compare to their normal counterparts (if they have a normal counterpart) |
 | How things fit together | 2 Hours | A write up of the way different gates interact with each other, including diagrams. |
 
-Week 2: The impacts of Quantum Computing
+#### Week 2: The impacts of Quantum Computing
+
 | Objective | Time Required | Deliverable |
 |:--------- | :-----------: | :---------- |
 | Get a Good Idea of the General Impacts | 2-3 Hours | A list of potential impacts that I can do a deep dive on |

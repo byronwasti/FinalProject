@@ -22,13 +22,13 @@ Quantum Computing: A Gentle Introduction by By Eleanor G. Rieffel and Wolfgang H
 
 ## Deliverables
 ### Minimum (MVP)
-The MVP for this project is a description of the basic building blocks of quantum computing, and an in-depth analysis of the impacts quantum computing will have on our society.
+The MVP for this project is a description of the basic building blocks of quantum computing.
 
 ### Planned
-Additional descriptions of how the different building blocks come together to form different computational units, such as the ALU or the memory unit.
+A simulation of a Quantum Computer that runs on a classical computer.
 
 ### Stretch
-Have a diagram of how a quantum computer all fits together. Basically the single-cycle CPU of the quantum computing world.
+Implement the simulation with all necessary gates to do any arbitrary Quantum computation.
 
 ## Work Plan
 Since there are essentially two sections to this project, they will be broken down into two separate subprojects each a week long.
@@ -36,16 +36,20 @@ Since there are essentially two sections to this project, they will be broken do
 #### Week 1: Understanding Quantum Computing
 
 | Objective | Time Required | Deliverable |
-|:--------- | :-----------: | :---------- |
+|:---------------------- | :-----------: | :----------------------------------------------------------- |
 | Understand Qubits | 2 Hours | A written section, with potential diagrams, explaining a qubit and different implementations of a qubit. |
+|--------------------|
 | Basic quantum logic gates | 8 Hours | A written section explaining the various quantum logic gates and how they compare to their normal counterparts (if they have a normal counterpart) |
+|--------------------|
 | How things fit together | 2 Hours | A write up of the way different gates interact with each other, including diagrams. |
 
-#### Week 2: The impacts of Quantum Computing
+#### Week 2: Quantum Computer Simulation
 
 | Objective | Time Required | Deliverable |
-|:--------- | :-----------: | :---------- |
-| Get a Good Idea of the General Impacts | 2-3 Hours | A list of potential impacts that I can do a deep dive on |
-| Cryptography Impacts | 4 Hours | A written section on how quantum computing affects the world of cryptography. |
-| Health/Medical Impacts | 4 Hours | A written section on how quantum computing can help with the world of protein structure finding, and other medical sciences.|
+|:---------------------- | :-----------: | :----------------------------------------------------------- |
+| Implement Qubit | 2-3 Hours | Figure out correct way to represent Qubit states |
+|--------------------|
+| Implement Standard 1 Qubit gates | 4 Hours | X, Y, Z and Hadamard |
+|--------------------|
+| Implement CNOT gate | 4 Hours | Have an implementation that correctly keeps track of entanglement |
 
